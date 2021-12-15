@@ -1,0 +1,17 @@
+# Blender v2.93.0 OBJ File: 'SceneAruco.blend'
+# www.blender.org
+mtllib Markers.mtl
+o 2.center_Mesh
+v 1.275584 0.432977 -0.498206
+o 2.right_Mesh.002
+v 1.275584 0.432977 -0.379365
+o 3.center_Plane.007
+v 1.000006 0.000000 -0.999994
+o 3.right_Plane.008
+v 1.082303 0.000000 -0.999994
+o 1.center_Plane.001
+v 0.460298 0.488889 -0.995247
+o 1.normal_Plane.005
+v 0.460299 0.488889 -0.666537
+o 1.right_Plane.006
+v 0.632396 0.488889 -0.995247
